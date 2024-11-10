@@ -1,1 +1,1 @@
-This file is basically about some the passion area of devops or IT I like.
+This file is basically about some of the areas I love in Tech. 
